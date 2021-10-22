@@ -14,7 +14,11 @@ public class Pre_Requisites {
 	public String password1="";
 	public String username2="";
 	public String password2="";
-	
+	public String create="";
+	public String update="";
+	public String search="";
+	public String save="";
+	public String close="";
 	
 
 @BeforeClass
