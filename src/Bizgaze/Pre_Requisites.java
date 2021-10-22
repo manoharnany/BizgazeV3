@@ -19,6 +19,13 @@ public class Pre_Requisites {
 	public String search="ListSearch";
 	public String save="btnDynamicSave";
 	public String close="btn_CloseForm";
+	public String stage="div_details_stages d-none d-sm-block";
+	public String chiledapp="btn-group select div_configurationsetting";
+	public String closedetailspage="detail-close";
+	
+	
+	
+	
 
 @BeforeClass
 	public void Startup() {
