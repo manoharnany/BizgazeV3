@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class Pre_Requisites {
 	public WebDriver driver;
-	public String URL="";
+	public String URL="https://test.bizgaze.com";
 	public String username="";
 	public String password="";
 	public String username1=""; 	 		 
